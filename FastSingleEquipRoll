@@ -1,6 +1,6 @@
 return {
     authorizedUsers = {
-        [1240194439] = true, --L2_Black
+        [1240194439] = true, --L2_Black1
         [10001753239] = true, --0Munyanyo0
         [10322140502] = true, -- Aspside05
     },
