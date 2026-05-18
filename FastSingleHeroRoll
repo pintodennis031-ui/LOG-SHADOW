@@ -1,8 +1,8 @@
 return {
     authorizedUsers = {
-        [10001753239] = "2026-06-15 18:00:00", -- 0Munyanyo0
-        [10322140502] = "2027-01-01 00:00:00", -- Aspside05
-        [2872175730] = "2027-06-15 18:00:00"   -- L2_Black1 (NIENTE VIRGOLA FINALE!)
+        [10001753239] = 20260615, -- 0Munyanyo0 (Scadenza: 15 Giugno 2026)
+        [10322140502] = 20270101, -- Aspside05  (Scadenza: 1 Gennaio 2027)
+        [2872175730]  = 20270615  -- L2_Black1
     },
     kickMessage = "\n[SYSTEM]\nAccess Denied: You are not authorized."
 }
