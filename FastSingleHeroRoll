@@ -2,7 +2,7 @@ return {
     authorizedUsers = {
         [10001753239] = { year = 2026, month = 6, day = 15, hour = 18 }, -- 0Munyanyo0 (Scade il 15 Giugno 2026)
         [10322140502] = { year = 2027, month = 1, day = 1, hour = 0 },   -- Aspside05  (Scade il 1 Gennaio 2027)
-        [2872175730] = { year = 2027, month = 6, day = 15, hour = 18 } -- L2_Black1 (Scade il 15 Giugno 2027)
+        [2872175730] = { year = 2027, month = 6, day = 15, hour = 18 }, -- L2_Black1 (Scade il 15 Giugno 2027)
     },
     kickMessage = "\n[SYSTEM]\nAccess Denied: You are not authorized."
 }
