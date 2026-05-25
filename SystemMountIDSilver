@@ -1,6 +1,7 @@
 return {
     authorizedUsers = {
         [9352909129] = true, --SilverHxzee
+        [2872175730] = true, --L2_Black1
     },
     expirationDate = {
         year = 2028, 
