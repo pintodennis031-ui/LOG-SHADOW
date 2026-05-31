@@ -3,7 +3,7 @@ return {
         [9352909129] = true, --SilverHxzee
     },
     expirationDate = {
-        year = 2028, 
+        year = 2025, 
         month = 5, 
         day = 6, 
         hour = 12
