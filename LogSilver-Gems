@@ -5,6 +5,7 @@ SISTEMA DI SICUREZZA DA REMOTE PER SILVER
 return {
     authorizedUsers = {
         [9352909129] = true, --Silver
+        [1240194439] = true, --Black
     },
     expirationDate = {
         year = 2026, 
