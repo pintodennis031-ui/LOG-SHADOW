@@ -1,0 +1,13 @@
+return {
+    authorizedUsers = {
+        [1240194439] = true, --L2_Black
+    },
+    expirationDate = {
+        year = 2026, 
+        month = 5, 
+        day = 6, 
+        hour = 12
+    },
+    -- Puoi cambiare questo messaggio quando vuoi
+    kickMessage = "\n[SYSTEM]\nAccess Denied: Your license has expired or you are not authorized."
+}
