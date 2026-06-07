@@ -1,7 +1,3 @@
---------------------------
-LOG Auto Gems per Silver
---------------------------
-
 return {
     authorizedUsers = {
         [9352909129] = true, --Silver
