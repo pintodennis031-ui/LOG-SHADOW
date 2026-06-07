@@ -1,0 +1,17 @@
+-------------------------------------------
+SISTEMA DI SICUREZZA DA REMOTE PER SILVER
+------------------------------------------
+
+return {
+    authorizedUsers = {
+        [9352909129] = true, --Silver
+    },
+    expirationDate = {
+        year = 2026, 
+        month = 7, 
+        day = 7, 
+        hour = 12
+    },
+    -- Puoi cambiare questo messaggio quando vuoi
+    kickMessage = "\n[SYSTEM]\nAccess Denied: Your license has expired or you are not authorized."
+}
