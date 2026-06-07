@@ -1,7 +1,3 @@
--------------------------------------------
-SISTEMA DI SICUREZZA DA REMOTE PER SILVER
-------------------------------------------
-
 return {
     authorizedUsers = {
         [9352909129] = true, --Silver
