@@ -3,6 +3,7 @@ return {
         [7359325966] = true, --Sparky02
         [3202519938] = true, --Yuu
         [1240194439] = true, --L2_Black
+        [5337052152] = true, --Richard
         [7058198451] = true, --Seyed
     },
     expirationDate = {
