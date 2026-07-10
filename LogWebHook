@@ -1,1 +1,19 @@
-
+return {
+    authorizedUsers = {
+        [1240194439] = true, -- L2_Black
+        [9352909129] = true, -- SilverHxzee
+        [3202519938] = true, -- o4_o8 (Yuu)
+        [5337052152] = true, -- Kaneki1111213 (Richard)
+        [7058198451] = true, -- erefik213 (Seyed)
+        [7359325966] = true, -- bentongg111 (Sparky02)
+        [10001753239] = true, -- 0Munyanyo0
+    },
+    expirationDate = {
+        year = 2027, 
+        month = 5, 
+        day = 6, 
+        hour = 12
+    },
+    -- Puoi cambiare questo messaggio quando vuoi
+    kickMessage = "\n[SYSTEM]\nAccess Denied: Your license has expired or you are not authorized."
+}
